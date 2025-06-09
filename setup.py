@@ -9,7 +9,7 @@ setup(
     author='happyleaves',
     author_email='happyleaves.tfr@gmail.com',
     packages=find_packages(),
-    install_requires=['bs4==0.0.1', 'python-dateutil==2.6.0', 'requests==2.12.4', 'requests-cache==0.4.13'],
+    install_requires=['bs4==0.0.1', 'python-dateutil==2.6.0', 'requests==2.32.4', 'requests-cache==0.4.13'],
     classifiers=[
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
